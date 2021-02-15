@@ -14,5 +14,6 @@ https://github.com/Woodi-dev/Among-Us-Sheriff-Mod
 https://github.com/tomozbot/MayorMod
 
 # Note
+Feel free to take code from this or any of my Among Us mods, but you must not distribute without linking back to this page.
 If you have any problems with this mod or me as a creator, feel free to dm me on Discord.
 Discord: DillyzThe1#0621
