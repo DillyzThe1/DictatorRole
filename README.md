@@ -22,3 +22,8 @@ Keep in mind not all versions of BepInEx will work.
 Feel free to take code from this or any of my Among Us mods, but you must not distribute without linking back to this page.
 If you have any problems with this mod or me as a creator, feel free to dm me on Discord.
 Discord: DillyzThe1#0621
+
+# My platforms
+https://www.youtube.com/channel/UCS8DAOdgMpGA7LAJlFSfDhQ
+https://discord.gg/2GTBQPMEVb
+https://github.com/DillyzThe1
