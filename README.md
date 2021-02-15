@@ -9,7 +9,7 @@ Play with the Mayor mod for extra fun. (SEE SOURCES)
 Mayor role video: https://www.youtube.com/watch?v=FbvGMisiABU
 Dictator role video: https://www.youtube.com/watch?v=LMMUiCo14s0
 
-# Commong Errors
+# Common Errors
 Common documented error 1 - sevrer.txt not found. This is caused by having the CrowdedMod on at the same time. The fix is currently unkown, but please submit it in Issues if you find it. (Title it Server.txt Not Found Fix)
 
 # Sourced code
