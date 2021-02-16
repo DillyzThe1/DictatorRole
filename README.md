@@ -4,6 +4,10 @@ Their vote counts for 8 people and can vote out who they want.
 If they die, you will have a normal game.
 Play with the Mayor mod for extra fun. (SEE SOURCES)
 
+# Discord
+https://discord.gg/Xfk4FUep - Get sneak peeks at new mods or updates and chat around!
+https://discord.gg/2GTBQPMEVb - My main server full of chaos, designed for my YouTube channel.
+
 # Original Idea
 - This idea comes from the original mayor role and a new Socksfor1 video posted a week or so before this mod creation.
 Mayor role video: https://www.youtube.com/watch?v=FbvGMisiABU
@@ -23,7 +27,6 @@ Feel free to take code from this or any of my Among Us mods, but you must not di
 If you have any problems with this mod or me as a creator, feel free to dm me on Discord.
 Discord: DillyzThe1#0621
 
-# My platforms
+# My other platforms
 https://www.youtube.com/channel/UCS8DAOdgMpGA7LAJlFSfDhQ
-https://discord.gg/2GTBQPMEVb
 https://github.com/DillyzThe1
