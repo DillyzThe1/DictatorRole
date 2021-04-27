@@ -15,7 +15,7 @@ Dictator role video: https://www.youtube.com/watch?v=LMMUiCo14s0<br/>
 <br/>
 # Common Errors
 -- No documented errors as of yet --<br/>
-<br/>
+
 # Sourced code
 2.0.0<br/>
 https://github.com/NotHunter101/ExtraRolesAmongUs<br/>
