@@ -12,7 +12,7 @@ https://discord.gg/2GTBQPMEVb - My main server full of chaos, designed for my Yo
 - This idea comes from the original mayor role and a new Socksfor1 video posted a week or so before the original mod creation.<br/>
 Mayor role video: https://www.youtube.com/watch?v=FbvGMisiABU<br/>
 Dictator role video: https://www.youtube.com/watch?v=LMMUiCo14s0<br/>
-<br/>
+
 # Common Errors
 -- No documented errors as of yet --<br/>
 
