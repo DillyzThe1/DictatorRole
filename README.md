@@ -1,3 +1,7 @@
+# IMPORTANT NOTICE
+THIS MOD IS SUPER OLD AND IS BEING REMADE FROM THE GROUND UP IN LATEST BUILDS OF THE GAME.<br>
+PLEASE CHECK OUT MY DRAPI-MOD-MANAGER PROGRAM WHEN IT RELEASES TO EASILY INSTALL!!<br>
+THIS SECTION WILL BE UPDATED SHORTLY BEFORE ARCHIVAL WITH A LINK TO THE MOD MANAGER'S INSTALLER.
 # Dictator Role
 This adds the Dictator role into the current version of among us. Read the README.txt file.<br/>
 Using their new button in a meeting, they can vote whoever they wish.<br/>
